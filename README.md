@@ -137,7 +137,7 @@ environment.
 **Branch:** `task/07-evidence-reflog` (Base: `main`)
 
 1. Create branch `task/07-evidence-reflog` from `main`.
-2. Create folder `reflog/` and add `reflog_HEAD.txt`.
+2. add `reflog.txt` by run export-reflog.sh
 3. Commit message: `Evidence: Add reflog records`.
 4. Create a Pull Request and merge into `main`.
 
