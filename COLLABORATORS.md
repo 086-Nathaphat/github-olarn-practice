@@ -1,7 +1,7 @@
 # Collaborators
 
 ## Owner
-- Full Name: YOUR REAL NAME
+- Full Name: Nathaphat Pinsuk
 
 ## Collaborator (Simulated)
 - GitHub Actions Bot
