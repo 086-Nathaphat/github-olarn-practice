@@ -1,11 +1,10 @@
-on: workflow_dispatch
-
 name: Automation (Safe Section Update)
 
 on:
   push:
     branches:
       - "task/*"
+  workflow_dispatch:
 
 permissions:
   contents: write
