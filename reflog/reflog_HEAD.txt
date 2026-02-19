@@ -1,0 +1,37 @@
+Evidence: Part 9 – Repository Activity
+Scope: HEAD movements
+Generated: 2026-02-19 20:42:38 UTC
+----------------------------------------
+d027a2f HEAD@{0}: checkout: moving from main to task/07-evidence-reflog
+d027a2f HEAD@{1}: pull: Fast-forward
+e6b8015 HEAD@{2}: checkout: moving from task/05-recovery to main
+6514b94 HEAD@{3}: commit: Recovery: Restore previous state
+1366781 HEAD@{4}: commit: ousgdfisgf
+e6b8015 HEAD@{5}: checkout: moving from main to task/05-recovery
+e6b8015 HEAD@{6}: pull: Fast-forward
+319b1c5 HEAD@{7}: checkout: moving from task/04-conflict-resolve to main
+8748c18 HEAD@{8}: commit (merge): Merge: Resolve conflict on index.html
+a2407e6 HEAD@{9}: checkout: moving from task/03-conflict-create to task/04-conflict-resolve
+a2407e6 HEAD@{10}: checkout: moving from task/03b-conflict-create-alt to task/03-conflict-create
+d67d93f HEAD@{11}: commit: Conflict: Modify same line in index.html
+319b1c5 HEAD@{12}: checkout: moving from task/03-conflict-create to task/03b-conflict-create-alt
+a2407e6 HEAD@{13}: commit: Conflict: Modify same line in index.html
+319b1c5 HEAD@{14}: checkout: moving from main to task/03-conflict-create
+319b1c5 HEAD@{15}: checkout: moving from task/03-conflict-create to main
+d0b8cff HEAD@{16}: checkout: moving from main to task/03-conflict-create
+319b1c5 HEAD@{17}: pull: Fast-forward
+d0b8cff HEAD@{18}: checkout: moving from task/02-feature-index to main
+34e5a6a HEAD@{19}: commit: Feature: Update index.html content
+cac6464 HEAD@{20}: checkout: moving from task/03-conflict-create to task/02-feature-index
+d0b8cff HEAD@{21}: checkout: moving from main to task/03-conflict-create
+d0b8cff HEAD@{22}: checkout: moving from task/02-feature-index to main
+cac6464 HEAD@{23}: checkout: moving from main to task/02-feature-index
+d0b8cff HEAD@{24}: pull: Fast-forward
+b3cbe21 HEAD@{25}: checkout: moving from task/02-feature-index to main
+cac6464 HEAD@{26}: commit: Feature: Update index.html content
+b3cbe21 HEAD@{27}: checkout: moving from main to task/02-feature-index
+b3cbe21 HEAD@{28}: pull: Fast-forward
+daa77eb HEAD@{29}: checkout: moving from task/01-collaborators to main
+8fa7826 HEAD@{30}: commit: Feature: Setup collaborators
+daa77eb HEAD@{31}: checkout: moving from main to task/01-collaborators
+daa77eb HEAD@{32}: clone: from https://github.com/086-Nathaphat/github-olarn-practice.git
